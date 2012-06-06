@@ -1,0 +1,10 @@
+Simple maven project for testing embedable java http proxies.
+
+Proxies tested:
+1. LittleProxy (not successfull)
+2. LigthProxy
+
+Clients used:
+1. Apache HttpClient 3
+2. Apache HttpClient 4
+3. Custom Netty-based client (not finished)
